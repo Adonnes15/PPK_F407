@@ -1,0 +1,7 @@
+../Core/Src/SD.c:22:6:SD_Card_Init	8	static
+../Core/Src/SD.c:37:6:SD_Card_Unmount	8	static
+../Core/Src/SD.c:50:5:list_dir	1872	static
+../Core/Src/SD.c:92:6:read_files	5168	static
+../Core/Src/SD.c:110:6:Log_ON	8	static
+../Core/Src/SD.c:121:6:Log_OFF	8	static
+../Core/Src/SD.c:131:6:SD_Card_write	16	static

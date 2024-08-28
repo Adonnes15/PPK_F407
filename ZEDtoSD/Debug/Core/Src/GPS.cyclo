@@ -1,0 +1,6 @@
+../Core/Src/GPS.c:24:6:toggle_Log	2
+../Core/Src/GPS.c:39:6:GPS_uart	2
+../Core/Src/GPS.c:50:6:send_msg	4
+../Core/Src/GPS.c:67:6:UBX_NAV_POSLLH_Parsing	1
+../Core/Src/GPS.c:85:6:UBX_NAV_TIMEUTC_Parsing	1
+../Core/Src/GPS.c:102:6:UBX_NAV_PVT_Parsing	1
