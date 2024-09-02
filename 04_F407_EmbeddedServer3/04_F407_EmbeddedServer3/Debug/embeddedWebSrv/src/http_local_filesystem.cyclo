@@ -1,0 +1,12 @@
+../embeddedWebSrv/src/http_local_filesystem.c:67:5:http_localfs_init	1
+../embeddedWebSrv/src/http_local_filesystem.c:79:5:http_localfs_registerFile	2
+../embeddedWebSrv/src/http_local_filesystem.c:100:30:http_localfs_fopen	3
+../embeddedWebSrv/src/http_local_filesystem.c:118:5:http_localfs_fclose	2
+../embeddedWebSrv/src/http_local_filesystem.c:130:5:http_localfs_deinit	1
+../embeddedWebSrv/src/http_local_filesystem.c:141:5:http_localfs_fgetc	3
+../embeddedWebSrv/src/http_local_filesystem.c:162:5:http_localfs_feof	2
+../embeddedWebSrv/src/http_local_filesystem.c:172:8:http_localfs_fread	4
+../embeddedWebSrv/src/http_local_filesystem.c:207:5:http_localfs_fileno	1
+../embeddedWebSrv/src/http_local_filesystem.c:213:6:http_localfs_ftell	1
+../embeddedWebSrv/src/http_local_filesystem.c:219:6:http_localfs_rewind	1
+../embeddedWebSrv/src/http_local_filesystem.c:226:5:http_localfs_fseek	11

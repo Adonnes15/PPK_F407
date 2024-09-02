@@ -1,0 +1,6 @@
+../embeddedWebSrv/src/http_cgi.c:52:5:http_CGI_exec_pathFunction	32	static
+../embeddedWebSrv/src/http_cgi.c:68:31:http_CGI_register_pathFunction	48	static
+../embeddedWebSrv/src/http_cgi.c:99:6:http_CGI_deRegister_pathFunction	16	static
+../embeddedWebSrv/src/http_cgi.c:110:6:http_CGI_deRegister_all	16	static
+../embeddedWebSrv/src/http_cgi.c:126:29:http_cgi_get_contentType	16	static
+../embeddedWebSrv/src/http_cgi.c:136:31:http_CGI_get_pathFunctionHandle	24	static

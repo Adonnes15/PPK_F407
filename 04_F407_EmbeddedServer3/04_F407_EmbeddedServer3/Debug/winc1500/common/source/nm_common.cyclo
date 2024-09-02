@@ -1,0 +1,7 @@
+../winc1500/common/source/nm_common.c:44:6:m2m_memcpy	3
+../winc1500/common/source/nm_common.c:54:7:m2m_checksum	2
+../winc1500/common/source/nm_common.c:66:6:m2m_memset	3
+../winc1500/common/source/nm_common.c:76:8:m2m_strlen	2
+../winc1500/common/source/nm_common.c:87:7:m2m_strncmp	5
+../winc1500/common/source/nm_common.c:101:9:m2m_strstr	5
+../winc1500/common/source/nm_common.c:124:7:m2m_memcmp	3

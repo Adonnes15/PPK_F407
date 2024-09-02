@@ -1,0 +1,7 @@
+../embeddedWebSrv/src/http_server.c:61:12:http_server_send404	2
+../embeddedWebSrv/src/http_server.c:77:12:http_server_send501	2
+../embeddedWebSrv/src/http_server.c:93:12:http_server_send_serverError500	2
+../embeddedWebSrv/src/http_server.c:113:12:http_server_findNreplace	3
+../embeddedWebSrv/src/http_server.c:136:12:http_server_writeChunkedBody	1
+../embeddedWebSrv/src/http_server.c:151:12:http_server_findNseekBack	8
+../embeddedWebSrv/src/http_server.c:184:5:http_server	60

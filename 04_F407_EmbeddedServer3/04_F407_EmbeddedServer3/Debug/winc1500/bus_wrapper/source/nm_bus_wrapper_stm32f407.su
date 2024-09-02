@@ -1,0 +1,7 @@
+../winc1500/bus_wrapper/source/nm_bus_wrapper_stm32f407.c:73:13:spi_select_slave	16	static
+../winc1500/bus_wrapper/source/nm_bus_wrapper_stm32f407.c:152:14:spi_rw	40	static
+../winc1500/bus_wrapper/source/nm_bus_wrapper_stm32f407.c:189:6:nm_bus_wifi_spi_init	40	static
+../winc1500/bus_wrapper/source/nm_bus_wrapper_stm32f407.c:224:7:nm_bus_init	24	static
+../winc1500/bus_wrapper/source/nm_bus_wrapper_stm32f407.c:268:7:nm_bus_ioctl	24	static
+../winc1500/bus_wrapper/source/nm_bus_wrapper_stm32f407.c:291:7:nm_bus_deinit	4	static
+../winc1500/bus_wrapper/source/nm_bus_wrapper_stm32f407.c:303:7:nm_bus_reinit	16	static

@@ -1,0 +1,10 @@
+../Core/Src/main.c:87:6:EXTI15_10_IRQHandler	2
+../Core/Src/main.c:103:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:129:13:socket_cb	10
+../Core/Src/main.c:207:13:wifi_cb	5
+../Core/Src/main.c:241:5:main	7
+../Core/Src/main.c:383:6:SystemClock_Config	3
+../Core/Src/main.c:430:13:MX_SDIO_SD_Init	1
+../Core/Src/main.c:458:13:MX_SPI1_Init	2
+../Core/Src/main.c:496:13:MX_GPIO_Init	1
+../Core/Src/main.c:625:6:Error_Handler	1

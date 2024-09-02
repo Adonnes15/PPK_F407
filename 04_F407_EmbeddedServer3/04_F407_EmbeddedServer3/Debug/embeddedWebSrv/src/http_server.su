@@ -1,0 +1,7 @@
+../embeddedWebSrv/src/http_server.c:61:12:http_server_send404	56	static
+../embeddedWebSrv/src/http_server.c:77:12:http_server_send501	56	static
+../embeddedWebSrv/src/http_server.c:93:12:http_server_send_serverError500	56	static
+../embeddedWebSrv/src/http_server.c:113:12:http_server_findNreplace	40	static
+../embeddedWebSrv/src/http_server.c:136:12:http_server_writeChunkedBody	56	static
+../embeddedWebSrv/src/http_server.c:151:12:http_server_findNseekBack	32	static
+../embeddedWebSrv/src/http_server.c:184:5:http_server	7256	static

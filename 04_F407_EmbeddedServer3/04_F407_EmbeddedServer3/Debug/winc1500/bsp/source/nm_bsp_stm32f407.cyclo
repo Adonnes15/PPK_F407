@@ -1,0 +1,7 @@
+../winc1500/bsp/source/nm_bsp_stm32f407.c:55:13:init_chip_pins	1
+../winc1500/bsp/source/nm_bsp_stm32f407.c:96:7:nm_bsp_init	1
+../winc1500/bsp/source/nm_bsp_stm32f407.c:112:7:nm_bsp_deinit	1
+../winc1500/bsp/source/nm_bsp_stm32f407.c:132:6:nm_bsp_reset	1
+../winc1500/bsp/source/nm_bsp_stm32f407.c:164:6:nm_bsp_sleep	1
+../winc1500/bsp/source/nm_bsp_stm32f407.c:176:6:nm_bsp_register_isr	1
+../winc1500/bsp/source/nm_bsp_stm32f407.c:220:6:nm_bsp_interrupt_ctrl	2

@@ -1,0 +1,11 @@
+../winc1500/driver/source/nmbus.c:59:7:nm_bus_iface_init	1
+../winc1500/driver/source/nmbus.c:76:7:nm_bus_iface_deinit	1
+../winc1500/driver/source/nmbus.c:90:7:nm_bus_reset	1
+../winc1500/driver/source/nmbus.c:112:7:nm_bus_iface_reconfigure	1
+../winc1500/driver/source/nmbus.c:130:8:nm_read_reg	1
+../winc1500/driver/source/nmbus.c:156:7:nm_read_reg_with_ret	1
+../winc1500/driver/source/nmbus.c:181:7:nm_write_reg	1
+../winc1500/driver/source/nmbus.c:194:14:p_nm_read_block	1
+../winc1500/driver/source/nmbus.c:221:7:nm_read_block	3
+../winc1500/driver/source/nmbus.c:247:14:p_nm_write_block	1
+../winc1500/driver/source/nmbus.c:274:7:nm_write_block	3

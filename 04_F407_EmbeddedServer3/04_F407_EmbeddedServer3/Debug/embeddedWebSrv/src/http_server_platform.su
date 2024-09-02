@@ -1,0 +1,15 @@
+../embeddedWebSrv/src/http_server_platform.c:47:6:HAL_SYSTICK_Callback	4	static
+../embeddedWebSrv/src/http_server_platform.c:65:14:http_localfs_fopen_w	16	static
+../embeddedWebSrv/src/http_server_platform.c:66:12:http_localfs_fclose_w	16	static
+../embeddedWebSrv/src/http_server_platform.c:67:15:http_localfs_fread_w	24	static
+../embeddedWebSrv/src/http_server_platform.c:68:12:http_localfs_fgetc_w	16	static
+../embeddedWebSrv/src/http_server_platform.c:69:12:http_localfs_fseek_w	24	static
+../embeddedWebSrv/src/http_server_platform.c:70:12:http_localfs_feof_w	16	static
+../embeddedWebSrv/src/http_server_platform.c:80:6:tcpServerSocketEventHandler	32	static
+../embeddedWebSrv/src/http_server_platform.c:107:5:http_server_WINC15x0_net_read	32	static
+../embeddedWebSrv/src/http_server_platform.c:129:5:http_server_WINC15x0_net_write	32	static
+../embeddedWebSrv/src/http_server_platform.c:147:6:http_server_WINC15x0_net_disconnect	16	static
+../embeddedWebSrv/src/http_server_platform.c:154:5:http_server_timerVal_SSI_replacer_cb	24	static
+../embeddedWebSrv/src/http_server_platform.c:167:5:http_server_timerValCallCount_SSI_replacer_cb	24	static
+../embeddedWebSrv/src/http_server_platform.c:182:5:httpServerTest_cgiPathFunction	32	static
+../embeddedWebSrv/src/http_server_platform.c:223:5:http_server_WINC15x0_init	64	static

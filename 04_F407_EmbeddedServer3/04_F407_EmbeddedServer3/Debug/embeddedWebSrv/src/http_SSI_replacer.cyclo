@@ -1,0 +1,4 @@
+../embeddedWebSrv/src/http_SSI_replacer.c:50:5:http_SSI_get_replacer_string	4
+../embeddedWebSrv/src/http_SSI_replacer.c:66:27:http_SSI_register_replacer	5
+../embeddedWebSrv/src/http_SSI_replacer.c:96:6:http_SSI_deRegister_replacer	1
+../embeddedWebSrv/src/http_SSI_replacer.c:107:6:http_SSI_deRegister_all	3

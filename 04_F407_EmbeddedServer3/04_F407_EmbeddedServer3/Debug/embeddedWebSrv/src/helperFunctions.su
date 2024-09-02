@@ -1,0 +1,2 @@
+../embeddedWebSrv/src/helperFunctions.c:13:19:ishex	16	static
+../embeddedWebSrv/src/helperFunctions.c:21:5:url_decode	32	static

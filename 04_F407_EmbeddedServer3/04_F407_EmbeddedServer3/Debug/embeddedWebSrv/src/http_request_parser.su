@@ -1,0 +1,3 @@
+../embeddedWebSrv/src/http_request_parser.c:67:29:parseRequest_mapMethodToEnum	16	static
+../embeddedWebSrv/src/http_request_parser.c:93:32:parseRequest_identifyFileClass	24	static
+../embeddedWebSrv/src/http_request_parser.c:131:5:parseRquest_identifyRequest	120	dynamic
